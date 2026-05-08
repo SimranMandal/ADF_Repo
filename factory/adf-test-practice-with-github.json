@@ -1,0 +1,15 @@
+{
+	"name": "adf-test-practice-with-github",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "63615d7f-3d51-4108-b41d-31c2cf374733",
+		"tenantId": "de08c407-19b9-427d-9fe8-edf254300ca7"
+	}
+}
